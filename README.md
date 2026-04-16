@@ -1,4 +1,11 @@
-Hi there 👋 I'm Domingo Anam
+<h1 align="center">Hi there 👋 I'm Domingo Anam</h1>
+<p align="center">
+  💻 BSIT Student | 🔌 IoT Developer | 🌐 Web Developer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=BSIT+Student;IoT+Developer;Web+Developer;Tech+Enthusiast" />
+</p>
 
 🎓 BS Information Technology Student
 💻 Passionate about Programming, IoT, and Software Development
