@@ -8,7 +8,7 @@
 </p>
 
 🎓 BS Information Technology Student  
-💻 Passionate about Programming, IoT, and Software Development
+💻 Passionate about IoT and Software Development.
 
 ---
 
